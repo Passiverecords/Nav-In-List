@@ -1,0 +1,11 @@
+{
+    "name": "NavInList",
+    "version": "0.0.1",
+    "main": "dist/nav-in-list.js",
+    "ignore": [
+    ],
+    "dependencies": {
+    },
+    "devDependencies": {
+    }
+}
