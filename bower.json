@@ -1,6 +1,6 @@
 {
     "name": "NavInList",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "main": "dist/nav-in-list.js",
     "ignore": [
     ],
