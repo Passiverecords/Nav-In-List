@@ -12,4 +12,3 @@ bower install nav-in-list
 
 ### License
 MIT.
->>>>>>> release/v0.0.1
